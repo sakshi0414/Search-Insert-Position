@@ -1,3 +1,4 @@
+//Leetcode Search Insert Position Question.
 class Solution {
     public int searchInsert(int[] n, int t) {
         int ans=0;
